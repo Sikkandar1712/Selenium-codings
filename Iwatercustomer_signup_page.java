@@ -30,7 +30,7 @@ public class Iwatercustomer_signup_page {
 	cap.setCapability("udid", "PRSSAUOZUGONT8BQ");//device id
 	
 	cap.setCapability("platformName", "Android");
-	
+	//comment
 	cap.setCapability("platformVersion", "7.1.1");//android version
 	
 	cap.setCapability("appPackage", "lifotech.iwater.customer");//app info
