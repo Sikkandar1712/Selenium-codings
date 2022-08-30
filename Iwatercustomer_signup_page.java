@@ -22,7 +22,7 @@ public class Iwatercustomer_signup_page {
 	public static void main(String[] args) throws MalformedURLException, InterruptedException, AWTException {
 		
 		
-		//mobile automation
+		
 	DesiredCapabilities cap = new DesiredCapabilities();
 	 
 	cap.setCapability("devicename", "OPPO A83 ");
